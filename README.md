@@ -11,14 +11,14 @@ O objetivo é conscientizar sobre a importância do **respeito às diferentes cr
 ---
 
 ## 🌐 Acesse o site
-👉 [Clique aqui para visitar o site no GitHub Pages](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO)
+👉 [Clique aqui para visitar o site no GitHub Pages](https://jbzz-tech.github.io/Presentation/)
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 - **HTML5** → estrutura do site  
 - **CSS3** → estilização e design responsivo  
-- **JavaScript** → interatividade (se houver)  
+- **JavaScript** → interatividade  
 - **GitHub Pages** → hospedagem gratuita  
 
 ---
@@ -27,22 +27,3 @@ O objetivo é conscientizar sobre a importância do **respeito às diferentes cr
 - Promover o **respeito às diferenças religiosas**  
 - Estimular a **reflexão e o diálogo** sobre intolerância  
 - Valorizar a **diversidade cultural e espiritual**  
-
----
-
-## 📸 Prévia do site
-> *(Adicione aqui uma captura de tela do site após o deploy)*  
-![Prévia do site](screenshot.png)
-
----
-
-## 🚀 Como executar localmente
-Caso queira visualizar ou editar o projeto em sua máquina:
-```bash
-# Clone o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-
-# Acesse a pasta
-cd NOME-DO-REPOSITORIO
-
-# Abra o arquivo index.html no navegador
